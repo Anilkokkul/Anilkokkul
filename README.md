@@ -5,7 +5,7 @@ I'm a full stack developer...
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, React.js, Node.js, MongoDB, MySQL, Bootstrap, 
+Javascript, HTML, CSS, React.js, Node.js, MongoDB, MySQL, Bootstrap, RESTful APIs, Express.js
 
 
 ## 🔗 Links
