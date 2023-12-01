@@ -4,7 +4,7 @@ I am currently learning Full Stack Web Developmet
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/_mr_no_one8?igshid=NzZlODBkYWE4Ng==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anil-kokkul) 
-[![Porfolio](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/anil-kokkul](https://anilkokkul.github.io/portfolio
+[![Porfolio](https://img.shields.io/badge/portfolio-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/anil-kokkul](https://anilkokkul.github.io/portfolio
 )
 
 # 💻 Tech Stack:
